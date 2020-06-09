@@ -6,7 +6,7 @@ H2O is a product created by the H2O.ai company to combine the main algorithms of
 
 The rsparkling R package is an extension package for sparklyr that creates an R front-end for the Sparkling Water package from H2O. This provides an interface to H2O’s high performance, distributed machine learning algorithms on Spark, using R. Rsparkling provides functions to access H2O’s distributed machine learning functions via sparklyr.
 
-This present work is about an application of some common supervised ML classifiers using K-Fold CV method in Apache Spark using Sparklyr and H2O-Sparkling Water. The main results obtained are presented here, providing a clear guideline that identifies the classic steps in the modeling process, possible to adapt to any other equivalent database. The key sparklyr functions and scripts used are proporcionated, allowing the reader to consult the appropriate bibliography and tutorial examples clearly and directly.
+This present work is about an application of some common supervised ML classifiers using K-Fold CV method in Apache Spark using Sparklyr and H2O-Sparkling Water. The main results obtained are presented here, providing a clear guideline that identifies the classic steps in the modeling process, possible to adapt to any other equivalent database. The key sparklyr functions and scripts used are proportionated, allowing the reader to consult the appropriate bibliography and tutorial examples clearly and directly.
 
 <br>
 
