@@ -44,4 +44,4 @@ This present work is about an application of some common supervised ML classifie
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics / June 07, 2020<br>
 >Email: <arqmain2010@gmail.com> <br>
->Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
+>Url: []   /   GitHub: [https://github.com/arqmain]</i>
