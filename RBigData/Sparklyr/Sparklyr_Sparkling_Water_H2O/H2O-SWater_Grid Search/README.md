@@ -40,5 +40,5 @@ This present work is about an application and practical exposition of how to app
 
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics / August 30, 2020<br>
->Email: <arqmain2010@gmail.com> <br>
->Url: [arqmain.000webhostapp.com]   /   GitHub: [https://github.com/arqmain]</i>
+>Email: <arqmain2010a@gmail.com> <br>
+>Url: [http://arqmain.000webhostapp.com/]   /   GitHub: [https://github.com/arqmain]</i>
