@@ -40,4 +40,4 @@ This project is about an application of some common supervised ML classifiers in
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics / May 31, 2020<br>
 >Email: <arqmain2010@gmail.com> <br>
->Url: []   /   GitHub: [https://github.com/arqmain]</i>
+>Url: [http://arqmain.000webhostapp.com/]   /   GitHub: [https://github.com/arqmain]</i>
