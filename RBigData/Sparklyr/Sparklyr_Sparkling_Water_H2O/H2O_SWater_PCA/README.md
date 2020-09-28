@@ -1,10 +1,7 @@
 # Big Data: PCA Application to MLearning Classification with H2O using Spark, Sparklyr, and H2O-Sparkling Water
 
 <br>
-
-H2O is an open source, distributed machine learning platform for Everyone. H2O is an alternative open-source cross-platform for machine learning that supports the most widely used statistical & machine learning algorithms including gradient boosted machines, generalized linear models, deep learning and more.
-
-Although H2O's main advantage over other tools is its scalability, its algorithms are equally useful when working with a small volume of data. H2O is an open source, distributed machine learning platform for Everyone. H2O is an alternative open-source cross-platform for machine learning that supports the most widely used statistical & machine learning algorithms including gradient boosted machines, generalized linear models, deep learning and more.
+H2O is an open source, distributed machine learning platform for Everyone. Although H2O's main advantage over other tools is its scalability, its algorithms are equally useful when working with a small volume of data. H2O is an open source, distributed machine learning platform for Everyone. H2O is an alternative open-source cross-platform for machine learning that supports the most widely used statistical & machine learning algorithms including gradient boosted machines, generalized linear models, deep learning and more.
 
 Personally, from some time until now I have incorporated H2O as one of my base platforms to use in conjunction with R and Python when having to deal with machine learning in general. H2O and R form a very powerful team that complements each other well and works very harmoniously in most cases whether in a BigData context or not. The same is probably the case with the H2O and Python team, however, I have not yet tested their behavior in such a way that I can issue a relevant opinion in this regard.
 
