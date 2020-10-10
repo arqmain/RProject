@@ -10,7 +10,7 @@ This present work is about an application of some common supervised ML classifie
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://github.com/arqmain/RProject/blob/master/RBigData/Sparklyr/Sparklyr_Sparkling_Water_H2O/H2O-SWater_KFold/KFold_CV_MLClassifiers_Sparklyr.pdf))
+### Table of Contents   (  [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/H2O-SWater_CValidation/H2O-SWater_KFold/KFold_CV_MLClassifiers_Sparklyr_H2O.html))
 
 ### WHAT IS IT ALL ABOUT?
 ### DATA SOURCE
