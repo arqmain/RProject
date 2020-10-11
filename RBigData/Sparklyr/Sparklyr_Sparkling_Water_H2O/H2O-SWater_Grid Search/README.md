@@ -1,4 +1,4 @@
-# Big Data: K-Fold CV ML Classifiers with Spark, Sparklyr, and H2O-Sparkling Water
+# Big Data: MLearning Classifiers Grid Search with Sparklyr and H2O-SWater
 
 <br>
 
@@ -10,7 +10,7 @@ This present work is about an application and practical exposition of how to app
 
 <br>
 
-### Table of Contents   ( [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/H2O-SWater_Grid Search/MLearning_Classifiers_Sparklyr_H2O-SWater_Grid Search.html))
+### Table of Contents   ( [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/H2O-SWater_Grid_Search/MLearning_Classifiers_Sparklyr_H2O-SWater_Grid_Search.html))
 
 ### WHAT IS IT ALL ABOUT?
 ### DATA SOURCE
