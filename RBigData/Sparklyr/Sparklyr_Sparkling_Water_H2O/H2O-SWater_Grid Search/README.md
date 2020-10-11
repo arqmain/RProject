@@ -10,7 +10,7 @@ This present work is about an application and practical exposition of how to app
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/H2O-SWater_Grid Search/MLearning_Classifiers_Sparklyr_H2O-SWater_Grid Search.html))
+### Table of Contents   ( [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/H2O-SWater_Grid Search/MLearning_Classifiers_Sparklyr_H2O-SWater_Grid Search.html))
 
 ### WHAT IS IT ALL ABOUT?
 ### DATA SOURCE
