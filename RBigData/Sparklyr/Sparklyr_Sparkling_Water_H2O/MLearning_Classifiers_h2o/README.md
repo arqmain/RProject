@@ -6,7 +6,7 @@ This project is about an application of some common supervised ML classifiers in
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://github.com/arqmain/RProject/blob/master/RBigData/Sparklyr/Sparklyr_Sparkling_Water_H2O/MLearning_Classifiers_h2o/MLearning_Classifiers_Sparklyr_H2o.pdf))
+### Table of Contents   (  [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/MLearning_Classifiers_h2o/MLearning_Classifiers_Sparklyr_H2o.html))
 
 ### WHAT IS IT ALL ABOUT?
 ### DATA SOURCE
