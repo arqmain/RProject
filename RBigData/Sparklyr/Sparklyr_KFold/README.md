@@ -12,7 +12,7 @@ This project was carried out on a spark 2.3.3, sparklyr 1.2.0., and considering 
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://www.arqmain.net/Researches/Researchs/BigData/Sparklyr_KFold/KFold_CV_MLClassifiers_Sparklyr.html))
+### Table of Contents   (  [  Link to R codes notebook ]( https://arqmain.000webhostapp.com/Research/BigData/Sparklyr_KFold/KFold_CV_MLClassifiers_Sparklyr.html))
 
 ### WHAT IS IT ALL ABOUT?
 ### DATA SOURCE
@@ -46,5 +46,5 @@ This project was carried out on a spark 2.3.3, sparklyr 1.2.0., and considering 
 ><i>Hector Alvaro Rojas<br>
 >Data Science, Visualizations and Applied Statistics / May 11, 2020<br>
 >Email: <arqmain2010@gmail.com> <br>
->Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
+>Url: [https://arqmain.000webhostapp.com]   /   GitHub: [https://github.com/arqmain]</i>
 
